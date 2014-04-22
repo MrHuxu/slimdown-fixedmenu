@@ -245,12 +245,11 @@ p>a{
 
 #pics>div{
   width:33.333%;
-  height:100%;
   float:left;
 }
 
 #frame{
-  margin-top:70px;
+  margin-top:50px;
   width:100%;
   overflow:hidden;
 }

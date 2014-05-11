@@ -1,5 +1,5 @@
 source 'http://rubygems.org/'
-ruby '2.1.1'
+ruby '2.1.2'
 gem 'shotgun', '~> 0.9'
 gem 'thin', '~> 1.6.2'
 gem 'heroku', '~> 3.6.0'

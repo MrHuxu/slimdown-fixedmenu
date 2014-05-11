@@ -7,6 +7,10 @@ html{
   background:url('/res/white_brick_wall.png');
 }
 
+h1, h2, h3, h4, h5, h6{
+  margin-top:15px;
+}
+
 #menu{
   height:40px;
   opacity:0.8;

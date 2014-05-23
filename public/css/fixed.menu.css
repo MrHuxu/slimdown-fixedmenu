@@ -177,6 +177,10 @@ a{
   margin-left:200px;
 }
 
+.time_tag{
+  line-height:0px;
+}
+
 .arc_year{
   opacity:0.8;
   float:right;
@@ -234,11 +238,6 @@ p>a{
 ::selection {
   background:#38485a;
   color:#fff;
-}
-
-.home_label{
-  float:right;
-  line-height:40px;
 }
 
 .home_img{

@@ -17,7 +17,7 @@ GEM
       multi_json (~> 1.8)
     launchy (2.4.2)
       addressable (~> 2.3)
-    mime-types (2.2)
+    mime-types (2.3)
     multi_json (1.10.1)
     netrc (0.7.7)
     rack (1.5.2)

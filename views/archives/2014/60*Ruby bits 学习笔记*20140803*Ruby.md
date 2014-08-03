@@ -91,18 +91,19 @@
 10. 使用```extend```包含一个```module```，可以把```module```中方法当做类方法来使用，```include```是当做实例方法。  
 
         module Modtest
-           def modmethod(para)
-             p "this is the mothod: #{para}"
-           end
-         end
+          def modmethod(para)
+            p "this is the mothod: #{para}"
+          end
+        end
 
-         class Clatest
-           extend Modtest
-         end
+        class Clatest
+          extend Modtest
+        end
 
-         Clatest.modmethod('Modtest')
+        Clatest.modmethod('Modtest')
          
 11. 在类实例化后再包含```module```：
+       
         module Modtest
           def modmethod(para)
             p "this is the mothod: #{para}"

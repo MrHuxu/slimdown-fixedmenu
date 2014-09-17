@@ -54,7 +54,7 @@ GEM
       eventmachine (>= 1.0.0)
       rack (>= 1.0.0)
     tilt (1.4.1)
-    timers (4.0.0)
+    timers (4.0.1)
       hitimes
 
 PLATFORMS

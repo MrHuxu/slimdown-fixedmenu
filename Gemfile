@@ -1,4 +1,4 @@
-source 'http://rubygems.org/'
+source 'https://rubygems.org/'
 ruby '2.1.2'
 gem 'thin', '~> 1.6.2'
 gem 'heroku', '~> 3.9.6'
